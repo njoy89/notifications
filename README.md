@@ -26,34 +26,29 @@ Comments
 Development
 --------
 
-1. `cd challenge/`
-2. `npm install`
-3. `npm run dev-server`
-4. `npm run webpack-server`
-5. `navigate to http://localhost:3000/`
+1. `npm install`
+2. `npm run dev-server && npm run webpack-server`
+3. `navigate to http://localhost:3000/`
 
 Production, project presentation
 --------
 
-1. `cd challenge/`
-2. `npm install`
-3. `npm run prod-server`
-4. `navigate to http://localhost:9000/`
+1. `npm install`
+2. `npm run prod-server`
+3. `navigate to http://localhost:9000/`
 
 Preparing production bundle
 --------
 
-1. `cd challenge/`
-2. `npm install`
-3. `npm run build`
-4. and run the `prod-server` and check out the new code version on `http://localhost:9000/`.
+1. `npm install`
+2. `npm run build`
+3. and run the `prod-server` and check out the new code version on `http://localhost:9000/`.
 
 Running unit tests
 --------
 
-1. `cd challenge/`
-2. `npm install`
-3. `npm run test`
+1. `npm install`
+2. `npm run test`
 
 Deployment
 --------
