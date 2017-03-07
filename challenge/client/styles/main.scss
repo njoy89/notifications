@@ -1,0 +1,11 @@
+@import "./vendor/normalize";
+@import "../../../node_modules/font-awesome/css/font-awesome.css";
+
+@import "./global/utils";
+
+@import "./components/Main";
+@import "./components/Notifications";
+
+#app {
+  height: 100vh;
+}

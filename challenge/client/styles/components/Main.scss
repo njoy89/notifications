@@ -1,0 +1,13 @@
+.main-container {
+  padding-top: 100px;
+  height: 100%;
+
+  label {
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  div.row:not(:first-child) {
+    margin-top: 10px;
+  }
+}
